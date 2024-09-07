@@ -14,7 +14,9 @@ With Movietime, you can dive deep into the world of entertainment, discover new 
 
 You can watch a brief overview of the project here:
 
-[Watch the video](https://drive.google.com/file/d/1jFX4_Mex61h1dPYc-7BVOpIsSREnJnl7/view?usp=sharing)
+[![Watch the video](https://github.com/Mohammed-Am/Movietime/blob/main/design1.png)](https://drive.google.com/file/d/1jFX4_Mex61h1dPYc-7BVOpIsSREnJnl7/view?usp=sharing)
+
+
 
 
 
