@@ -66,9 +66,5 @@ To run this project locally, follow these steps:
 
 
 
-```bash
-git add README.md
-git commit -m "Add README for Movietime project"
-git push origin main
 
         
