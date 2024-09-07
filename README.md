@@ -65,20 +65,7 @@ To run this project locally, follow these steps:
 
 
 
-# Contribution
-Feel free to fork this repository, make improvements, and submit pull requests!
 
-# License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-### Steps to add this to your GitHub repository:
-
-1. In your project folder, create a new file called `README.md`:
-   ```bash
-   touch README.md
-2. Open the file in a text editor and paste the template above, adjusting any project-specific details as needed.
-
-3. Add, commit, and push the README.md to your GitHub repository:
 ```bash
 git add README.md
 git commit -m "Add README for Movietime project"
