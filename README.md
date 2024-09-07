@@ -9,7 +9,13 @@ Welcome to **Movietime** – your ultimate **one-stop hub** for all things movie
 
 With Movietime, you can dive deep into the world of entertainment, discover new favorites, and easily manage your watchlist to keep track of what you want to see next. Explore and enjoy!
 
-[Watch Video](path/to/your/video.mp4)
+
+## Project Video
+
+You can watch a brief overview of the project here:
+
+[Watch the video](https://drive.google.com/file/d/1jFX4_Mex61h1dPYc-7BVOpIsSREnJnl7/view?usp=sharing)
+
 
 
 ## Features
@@ -55,11 +61,7 @@ To run this project locally, follow these steps:
 2. **Browse**: Explore actor and director profiles for detailed information.
 3. **Rate & Review**: Leave your own ratings and reviews for any title.
 
-# Screenshots
 
-![Movietime Logo](https://github.com/username/repository/raw/main/path/to/image.png)
-![Movietime Logo](https://github.com/username/repository/raw/main/path/to/image.png)
-![Movietime Logo](https://github.com/username/repository/raw/main/path/to/image.png)
 
 # Contribution
 Feel free to fork this repository, make improvements, and submit pull requests!
